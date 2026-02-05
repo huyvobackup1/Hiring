@@ -7,12 +7,13 @@
 
 ---
 
-## ⚠️ TO APPLY — Send me ONE message with:
+## ⚠️ TO APPLY — NO HELLO, send me ONE message with:
 
-1. Your background (brief summary)
-2. CV/Resume
-3. Salary expectation
-4. Email contact
+1. Copy of this JD (so I know which role)
+2. Your background (brief summary)
+3. CV/Resume
+4. Salary expectation
+5. Email contact
 
 I'm an engineer, not a recruiter — no time for back-and-forth. If there's potential, I'll call you for a 15-min screening.
 
