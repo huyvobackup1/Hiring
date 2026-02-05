@@ -1,11 +1,26 @@
 # Product Engineer (Payments Orchestration)
 
-**Location:** Remote (UTC+8)  
-**Employment Type:** Full-Time, Permanent (3-month probation)  
-**Salary:** 5,000 - 8,000 SGD/month (Gross)  
-**Experience Level:** 4-6 years  
+**Location:** Remote (UTC+8) 
+**Employment Type:** Full-Time, Permanent (3-month probation) 
+**Salary:** 5,000 - 8,000 SGD/month (Gross) 
+**Experience Level:** 4-6 years 
 
 ---
+---
+
+**⚠️ TO APPLY — Send me ONE message with:**
+0. Copy of this JD
+1. Your background (brief summary)
+2. CV/Resume
+3. Salary expectation
+4. Email contact
+
+I'm an engineer, not a recruiter — no time for back-and-forth. If there's potential, I'll call you for a 15-min screening.
+
+---
+
+**Just ping me if you're confident and strong.** I've been through top tech interviews in Vietnam and globally — happy to support you as a fellow engineer, not just screen you like HR.
+
 
 ## About the Role
 
@@ -65,18 +80,3 @@ Node.js | TypeScript | React | Microservices | REST API / gRPC | PostgreSQL | Di
 ## Hiring Process
 
 90-minute Live Coding Session (Go/TypeScript/React) — No take-home assignment.
-
----
-
-**⚠️ TO APPLY — Send me ONE message with:**
-
-1. Your background (brief summary)
-2. CV/Resume
-3. Salary expectation
-4. Email contact
-
-I'm an engineer, not a recruiter — no time for back-and-forth. If there's potential, I'll call you for a 15-min screening.
-
----
-
-**Just ping me if you're confident and strong.** I've been through top tech interviews in Vietnam and globally — happy to support you as a fellow engineer, not just screen you like HR.
