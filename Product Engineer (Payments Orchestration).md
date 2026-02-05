@@ -9,6 +9,7 @@
 ---
 
 **⚠️ TO APPLY — Send me ONE message with:**
+
 0. Copy of this JD
 1. Your background (brief summary)
 2. CV/Resume
