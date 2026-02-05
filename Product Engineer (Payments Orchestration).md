@@ -76,3 +76,7 @@ Node.js | TypeScript | React | Microservices | REST API / gRPC | PostgreSQL | Di
 4. Email contact
 
 I'm an engineer, not a recruiter — no time for back-and-forth. If there's potential, I'll call you for a 15-min screening.
+
+---
+
+**Just ping me if you're confident and strong.** I've been through top tech interviews in Vietnam and globally — happy to support you as a fellow engineer, not just screen you like HR.
